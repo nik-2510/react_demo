@@ -1,0 +1,10 @@
+
+.scrollable {
+    overflow: scroll;
+    border: 2px solid black; 
+    height: 800px; 
+}
+
+div::-webkit-scrollbar {
+    display: none;
+}
